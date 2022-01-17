@@ -1,0 +1,4 @@
+node_modules
+test.js
+test.wasm
+package-lock.json
